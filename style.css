@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* section1 */
+.section1{
+  background-image: url(./fullsize/photo_2023-11-09_22-37-57.jpg);
+  height: 730px;
+  color: white;
+  opacity:.8;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* section2 */
+.section2{
+  background-color: #dc3545;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  height: 300px;
+  text-align: center;
+}
+/* section3 */
+.section3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 400px;
+}
+
+/* Section 4 */
+
+.images{
+  width: 506.5px;
+  height: 300px;
+}
+.top{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+.bottom{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+/* Section 4 */
+
+
+
+/* Section 5 */
+
+.section5{
+  width: 1518.5px;
+  height: 350px;
+  background-color: rgb(5, 5, 33);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.section5-h1{
+  font-size: 50px;
+  color: white;
+  font-weight: 400;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn{
+  width: 200px;
+  height: 50px;
+}
+
+/* Section 5 */
+
+/* Section 6 */
+
+.section6{
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.section6-texts{
+  text-align: center;
+}
+.icons{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+  gap: 20px;
+
+}
+.bi{
+  font-size: 2.5rem;
+}
+
+/* Section 6 */
+
+
